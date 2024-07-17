@@ -2,7 +2,12 @@ v0.5 proof-of-concept
 
 # Запуск 
 
-    Находясь в корневой директории проекта 
+    ` git clone https://github.com/G3-KKA/twenty-four-hour-bank `
+
+    ` cd twenty-four-hour-bank`
+    
+Находясь в корневой директории проекта 
+    
     `make build-and-run`
 
 # Требования
